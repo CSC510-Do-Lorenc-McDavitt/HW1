@@ -1,5 +1,5 @@
 def add(a: int, b: int) -> int:
-    return a + b;
+    return a + b
 def main():
     a = 1
     b = 2
@@ -7,4 +7,5 @@ def main():
     print(c)
     e = add(a, d)
     print(e)
-main()
+if __name__ == "__main__":
+    main()
