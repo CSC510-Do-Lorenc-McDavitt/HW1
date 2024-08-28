@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Thien Do, Nathaniel Lorenc, Jacob McDavitt
+Copyright (c) 2024 Thien Do, Nathaniel Lorenc, Jake McDavitt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
